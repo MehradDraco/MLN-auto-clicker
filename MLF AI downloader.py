@@ -1,0 +1,23 @@
+import pyautogui as ai
+from os import system
+import time
+search = input("Say What you want to download: ")
+system(" start https://duckduckgo.com ")
+time.sleep(4)
+ai.click(517,141)
+ai.typewrite(search)
+ai.typewrite(" site:soft98.ir")
+time.sleep(1)
+ai.click(987,140)
+time.sleep(10)
+ai.click(246,363)
+time.sleep(5)
+ai.click(1359,393)
+ai.click(1359,393)
+ai.click(1359,393)
+ai.click(1359,393)
+ai.click(1359,393)
+ai.click(1359,393)
+ai.click(1359,393)
+time.sleep(1)
+ai.click(763,553)
