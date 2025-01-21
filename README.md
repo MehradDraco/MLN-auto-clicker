@@ -1,2 +1,2 @@
-# MLF auto clicker
+# MLN auto clicker
  It's an auto clicker by MLF studio ;)
